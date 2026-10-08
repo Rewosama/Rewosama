@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="96" viewBox="0 0 830 96" role="img" aria-label="Not: Evet, burdakiler mirror. Asılları nerede? Hiçbir fikrim yok, bir sabah uyandım repolar kendiliğinden buraya yansımıştı.">
+  <style>.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Monaco,Consolas,"Liberation Mono",monospace}</style>
+  <rect width="830" height="96" fill="#0a0a0a"/>
+  <rect x="0.5" y="0.5" width="829" height="95" fill="none" stroke="#1f1f1f"/>
+  <rect width="3" height="96" fill="#00fff9"/>
+  <text class="mono" x="24" y="46" font-size="13.5" fill="#00fff9">#</text>
+  <text class="mono" x="42" y="46" font-size="13.5" fill="#cfd3d8" textLength="510" lengthAdjust="spacingAndGlyphs">Evet, burdakiler mirror. As&#305;llar&#305; nerede? Hi&#231;bir fikrim yok, bir</text>
+  <text class="mono" x="24" y="72" font-size="13.5" fill="#00fff9">#</text>
+  <text class="mono" x="42" y="72" font-size="13.5" fill="#cfd3d8" textLength="429" lengthAdjust="spacingAndGlyphs">sabah uyand&#305;m repolar kendili&#287;inden buraya yans&#305;m&#305;&#351;t&#305;.</text>
+</svg>
