@@ -16,23 +16,18 @@
   </tr>
 </table>
 
-## `~/identity`
+## `~/domains`
 
 ```text
-$ whoami
-rewosama — a handle instead of a face.
+$ cat ./domains
+web         sites, panels, interface work
+discord     bots, economy, moderation, voice
+automation  deploy, monitoring, upkeep
 
-I build small things for the internet and publish all of it under one
-anonymous handle: a personal site, a Discord bot, and whatever breaks
-next. No real name, no photo, no city.
-
-$ ls -la ./surfaces
-drwxr-xr-x   rewou.me      the front door
-drwxr-xr-x   bot.rewou.me  RewoBot · Discord management panel
--rw-r--r--   discord       the only way to reach me
-
-$ echo $MOTTO
-ship first, explain never
+$ cat ./rules
+1. No real name. The handle is enough.
+2. Code is open, bugs are too.
+3. Asked who I am, I answer with what I built.
 ```
 
 <p align="center">

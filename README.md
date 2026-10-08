@@ -16,23 +16,18 @@
   </tr>
 </table>
 
-## `~/kimlik`
+## `~/alanlar`
 
 ```text
-$ kim
-rewosama — isim yerine bir kullanıcı adı.
+$ cat ./alanlar
+web        site, panel, arayüz işleri
+discord    botlar, ekonomi, moderasyon, ses
+otomasyon  dağıtım, izleme, bakım
 
-İnternete küçük şeyler yapıp hepsini tek bir anonim kullanıcı adı
-altında yayınlıyorum: kişisel site, Discord botu ve sıradaki bozulan
-şey. Gerçek isim yok, fotoğraf yok, şehir yok.
-
-$ ls -la ./yüzeyler
-drwxr-xr-x   rewou.me      ana kapı
-drwxr-xr-x   bot.rewou.me  RewoBot · Discord yönetim paneli
--rw-r--r--   discord       benimle iletişim kurmanın tek yolu
-
-$ echo $MOTTO
-önce yayınla, sonra açıkla
+$ cat ./kurallar
+1. Gerçek isim yok, kullanıcı adı yeterli.
+2. Kod herkese açık, hata da açık.
+3. Adı sorulursa ne yaptığımı anlatırım.
 ```
 
 <p align="center">
