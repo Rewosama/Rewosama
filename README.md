@@ -6,19 +6,9 @@
   <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/note.svg" width="830" alt="Not: Evet, burdakiler mirror. Asılları nerede? Hiçbir fikrim yok, bir sabah uyandım repolar kendiliğinden buraya yansımıştı.">
 </p>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://rewou.me"><img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/card-site.svg" width="245" alt="rewou.me — ana site: profil, bağlantılar, oyunlar"></a>
-    </td>
-    <td align="center">
-      <a href="https://bot.rewou.me"><img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/card-bot.svg" width="245" alt="bot.rewou.me — RewoBot Discord sunucu yönetim paneli"></a>
-    </td>
-    <td align="center">
-      <a href="https://discord.com/users/609455561129328656"><img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/card-dm.svg" width="245" alt="Discord DM — Rewosama'ya doğrudan mesaj at"></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://rewou.me"><img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/card-site.svg" width="245" alt="rewou.me — ana site: profil, bağlantılar, oyunlar" align="middle"></a>&nbsp;&nbsp;&nbsp;<a href="https://bot.rewou.me"><img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/card-bot.svg" width="245" alt="bot.rewou.me — RewoBot Discord sunucu yönetim paneli" align="middle"></a>&nbsp;&nbsp;&nbsp;<a href="https://discord.com/users/609455561129328656"><img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/card-dm.svg" width="245" alt="Discord DM — Rewosama'ya doğrudan mesaj at" align="middle"></a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/manifesto.svg" width="830" alt="İsim yok, yüz yok, sadece kullanıcı adı — iş herkese açık, kişi dışarıda kalır.">
