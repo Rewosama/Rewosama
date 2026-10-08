@@ -1,6 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="830" height="52" viewBox="0 0 830 52" role="img" aria-label="Not: Evet, burdakiler mirror. Asılları nerede? Hiçbir fikrim yok, bir sabah uyandım repolar kendiliğinden buraya yansımıştı.">
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="60" viewBox="0 0 830 60" role="img" aria-label="Not: Evet, burdakiler mirror. Asılları nerede? Hiçbir fikrim yok, bir sabah uyandım repolar kendiliğinden buraya yansımıştı.">
+  <defs>
+    <pattern id="ngrid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#151515"/>
+    </pattern>
+  </defs>
   <style>.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Monaco,Consolas,"Liberation Mono",monospace}</style>
-  <rect width="830" height="52" fill="#0a0a0a"/>
-  <rect x="0.5" y="0.5" width="829" height="51" fill="none" stroke="#1f1f1f"/>
-  <text class="mono" x="415" y="33" font-size="11.5" fill="#cfd3d8" text-anchor="middle" textLength="788" lengthAdjust="spacingAndGlyphs">Evet, burdakiler mirror. As&#305;llar&#305; nerede? Hi&#231;bir fikrim yok, bir sabah uyand&#305;m repolar kendili&#287;inden buraya yans&#305;m&#305;&#351;t&#305;.</text>
+  <rect width="830" height="60" fill="#0a0a0a"/>
+  <rect x="1" y="3" width="828" height="56" fill="url(#ngrid)"/>
+  <rect x="1" y="1" width="828" height="2.5" fill="#00fff9"/>
+  <rect x="0.5" y="0.5" width="829" height="59" fill="none" stroke="#1f1f1f"/>
+  <text class="mono" x="415" y="35" font-size="11.5" fill="#cfd3d8" text-anchor="middle" textLength="784" lengthAdjust="spacingAndGlyphs"><tspan fill="#6a7282">Evet, burdakiler mirror.&#160;</tspan>As&#305;llar&#305; nerede? Hi&#231;bir fikrim yok, bir sabah uyand&#305;m repolar kendili&#287;inden buraya yans&#305;m&#305;&#351;t&#305;.</text>
 </svg>
