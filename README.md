@@ -16,19 +16,13 @@
   </tr>
 </table>
 
-## `~/alanlar`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/sec-alanlar.svg" width="830" alt="Bölüm 01 — ~/alanlar">
+</p>
 
-```text
-$ cat ./alanlar
-web        site, panel, arayüz işleri
-discord    botlar, ekonomi, moderasyon, ses
-otomasyon  dağıtım, izleme, bakım
-
-$ cat ./kurallar
-1. Gerçek isim yok, kullanıcı adı yeterli.
-2. Kod herkese açık, hata da açık.
-3. Adı sorulursa ne yaptığımı anlatırım.
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/panel-alanlar.svg" width="830" alt="Alanlar: web (site, panel, arayüz işleri), discord (botlar, ekonomi, moderasyon, ses), otomasyon (dağıtım, izleme, bakım). Kurallar: gerçek isim yok, kod herkese açık, adı sorulursa ne yaptığımı anlatırım.">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/manifesto.svg" width="830" alt="İsim yok, yüz yok, sadece kullanıcı adı — iş herkese açık, kişi dışarıda kalır.">
@@ -42,7 +36,9 @@ $ cat ./kurallar
   <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/divider.svg" width="830" alt="">
 </p>
 
-## `~/yığın`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/sec-stack.svg" width="830" alt="Bölüm 02 — ~/yığın">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
@@ -54,15 +50,15 @@ $ cat ./kurallar
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord">
 </p>
 
-## `~/iletişim`
-
-Tek doğrudan hat Discord. E-posta yok, iletişim formu yok, analitik yok, takip yok.
-
 <p align="center">
-  <a href="https://discord.com/users/609455561129328656">
-    <img src="https://img.shields.io/badge/DM%20me%20on%20Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord DM gönder">
-  </a>
+  <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/sec-iletisim.svg" width="830" alt="Bölüm 03 — ~/iletişim">
 </p>
+
+<a href="https://discord.com/users/609455561129328656">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/panel-iletisim.svg" width="830" alt="Discord DM — tıkla ve yaz. Tek kanal: e-posta yok, form yok, analitik yok, takip yok.">
+  </p>
+</a>
 
 > **Not:** Evet, burdakiler mirror. Asılları nerede? Hiçbir fikrim yok, bir sabah uyandım repolar kendiliğinden buraya yansımıştı.
 

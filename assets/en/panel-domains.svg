@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="232" viewBox="0 0 830 232" role="img" aria-label="Domains and rules panel">
+  <defs>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f1f1f" stop-opacity="0"/>
+      <stop offset="1" stop-color="#1f1f1f"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f1f1f"/>
+      <stop offset="1" stop-color="#1f1f1f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .led { animation: led 3.2s ease-in-out infinite; }
+    .led2 { animation: led 3.2s ease-in-out infinite; animation-delay:.8s; }
+    .led3 { animation: led 3.2s ease-in-out infinite; animation-delay:1.6s; }
+    @keyframes led { 0%,100% { opacity:.3 } 50% { opacity:1 } }
+  </style>
+
+  <rect width="830" height="232" fill="#0a0a0a"/>
+  <rect x="0.5" y="0.5" width="829" height="231" fill="none" stroke="#1f1f1f"/>
+
+  <rect x="1" y="1" width="828" height="35" fill="#101010"/>
+  <line x1="1" y1="36.5" x2="829" y2="36.5" stroke="#1f1f1f"/>
+  <circle cx="20" cy="18" r="4.5" fill="#00fff9"/>
+  <circle cx="36" cy="18" r="4.5" fill="#262626"/>
+  <circle cx="52" cy="18" r="4.5" fill="#262626"/>
+  <text class="mono" x="74" y="23" font-size="12.5" fill="#6a7282" textLength="183" lengthAdjust="spacingAndGlyphs">rewosama@github: ~/domains</text>
+  <text class="mono" x="812" y="23" font-size="12.5" fill="#3d4148" text-anchor="end">3 + 3</text>
+
+  <text class="mono" x="44" y="72" font-size="14" fill="#00fff9">$</text>
+  <text class="mono" x="62" y="72" font-size="14" fill="#e6e6e6" textLength="180" lengthAdjust="spacingAndGlyphs">./domains --list --all</text>
+
+  <line x1="418" y1="88" x2="418" y2="190" stroke="#1a1a1a"/>
+
+  <text class="mono" x="44" y="104" font-size="10.5" fill="#5a6068" textLength="60" lengthAdjust="spacingAndGlyphs">DOMAINS</text>
+  <text class="mono" x="444" y="104" font-size="10.5" fill="#5a6068" textLength="45" lengthAdjust="spacingAndGlyphs">RULES</text>
+
+  <g class="mono" font-size="12.5">
+    <circle class="led" cx="50" cy="126" r="3.5" fill="#00fff9"/>
+    <text x="62" y="130" fill="#cfd3d8" textLength="300" lengthAdjust="spacingAndGlyphs">web         sites, panels, interface work</text>
+
+    <circle class="led2" cx="50" cy="150" r="3.5" fill="#5865f2"/>
+    <text x="62" y="154" fill="#cfd3d8" textLength="315" lengthAdjust="spacingAndGlyphs">discord     bots, economy, moderation, voice</text>
+
+    <circle class="led3" cx="50" cy="174" r="3.5" fill="#f0b232"/>
+    <text x="62" y="178" fill="#cfd3d8" textLength="278" lengthAdjust="spacingAndGlyphs">automation  deploy, monitoring, upkeep</text>
+
+    <text x="444" y="130" fill="#5a6068" textLength="233" lengthAdjust="spacingAndGlyphs"><tspan fill="#00fff9">1.</tspan> No real name. The handle is enough.</text>
+    <text x="444" y="154" fill="#5a6068" textLength="210" lengthAdjust="spacingAndGlyphs"><tspan fill="#00fff9">2.</tspan> Code is open, bugs are too.</text>
+    <text x="444" y="178" fill="#5a6068" textLength="285" lengthAdjust="spacingAndGlyphs"><tspan fill="#00fff9">3.</tspan> Asked who I am, I answer what I built.</text>
+  </g>
+
+  <rect x="1" y="196" width="828" height="35" fill="#101010"/>
+  <line x1="1" y1="195.5" x2="829" y2="195.5" stroke="#1f1f1f"/>
+  <rect x="20" y="208" width="26" height="2" fill="url(#fadeL)"/>
+  <text class="mono" x="812" y="219" font-size="11.5" fill="#3d4148" text-anchor="end" textLength="140" lengthAdjust="spacingAndGlyphs">3 domains &#183; 3 rules</text>
+  <rect x="784" y="208" width="26" height="2" fill="url(#fadeR)"/>
+</svg>

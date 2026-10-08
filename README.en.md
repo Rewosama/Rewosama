@@ -16,19 +16,13 @@
   </tr>
 </table>
 
-## `~/domains`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/en/sec-domains.svg" width="830" alt="Section 01 — ~/domains">
+</p>
 
-```text
-$ cat ./domains
-web         sites, panels, interface work
-discord     bots, economy, moderation, voice
-automation  deploy, monitoring, upkeep
-
-$ cat ./rules
-1. No real name. The handle is enough.
-2. Code is open, bugs are too.
-3. Asked who I am, I answer with what I built.
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/en/panel-domains.svg" width="830" alt="Domains: web (sites, panels, interface work), discord (bots, economy, moderation, voice), automation (deploy, monitoring, upkeep). Rules: no real name, code is open, asked who I am I answer what I built.">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/en/manifesto.svg" width="830" alt="No name. No face. Just the handle — the work is public, the person stays out of it.">
@@ -42,7 +36,9 @@ $ cat ./rules
   <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/divider.svg" width="830" alt="">
 </p>
 
-## `~/stack`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/en/sec-stack.svg" width="830" alt="Section 02 — ~/stack">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
@@ -54,15 +50,15 @@ $ cat ./rules
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord">
 </p>
 
-## `~/contact`
-
-The only direct line is Discord. No email, no contact form, no analytics, no tracking.
-
 <p align="center">
-  <a href="https://discord.com/users/609455561129328656">
-    <img src="https://img.shields.io/badge/DM%20me%20on%20Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Send a Discord DM">
-  </a>
+  <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/en/sec-contact.svg" width="830" alt="Section 03 — ~/contact">
 </p>
+
+<a href="https://discord.com/users/609455561129328656">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Rewosama/Rewosama/main/assets/en/panel-contact.svg" width="830" alt="Discord DM — click and write. Only channel: no email, no contact form, no analytics, no tracking.">
+  </p>
+</a>
 
 > **Note:** Yes, these are mirrors. Where are the originals? No idea — I woke up one morning and the repos had mirrored themselves here on their own.
 
