@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="84" viewBox="0 0 830 84" role="img" aria-label="Footer: önce yayınla, sonra açıkla">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .cur { animation: blink 1.15s steps(1,end) infinite; }
+    @keyframes blink { 0%,49% { opacity:1 } 50%,100% { opacity:0 } }
+  </style>
+  <rect width="830" height="84" fill="#0a0a0a"/>
+  <rect x="0.5" y="0.5" width="829" height="83" fill="none" stroke="#1f1f1f"/>
+
+  <text class="mono" x="289" y="44" font-size="14" fill="#00fff9">&#9656;</text>
+  <text class="mono" x="309" y="44" font-size="14" fill="#b9bfc7" textLength="218" lengthAdjust="spacingAndGlyphs">önce yayınla, sonra açıkla</text>
+  <rect class="cur" x="533" y="33" width="8.4" height="14" fill="#00fff9"/>
+
+  <text class="mono" x="415" y="68" font-size="11" fill="#4a5058" text-anchor="middle" textLength="363" lengthAdjust="spacingAndGlyphs">karanlıkta üretildi &#183; anonim olarak sürdürülüyor &#183; rewou.me</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="116" viewBox="0 0 830 116" role="img" aria-label="İsim yok, yüz yok, sadece kullanıcı adı">
+  <defs>
+    <radialGradient id="mglow" cx="0.5" cy="0.5" r="0.62">
+      <stop offset="0" stop-color="#00fff9" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#00fff9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .shimmer { animation: sh 6s ease-in-out infinite; }
+    @keyframes sh { 0%,100% { opacity:.55 } 50% { opacity:1 } }
+  </style>
+
+  <rect width="830" height="116" fill="#0a0a0a"/>
+  <rect x="1" y="1" width="828" height="114" fill="url(#mglow)"/>
+  <rect x="0.5" y="0.5" width="829" height="115" fill="none" stroke="#1f1f1f"/>
+
+  <g stroke="#00fff9" stroke-width="1.4" opacity=".5" fill="none">
+    <polyline points="12,28 12,12 28,12"/>
+    <polyline points="802,12 818,12 818,28"/>
+    <polyline points="12,88 12,104 28,104"/>
+    <polyline points="802,104 818,104 818,88"/>
+  </g>
+
+  <text class="mono shimmer" x="415" y="55" font-size="23" font-weight="700" fill="#ffffff" text-anchor="middle" textLength="554" lengthAdjust="spacingAndGlyphs">İSİM YOK &#183; YÜZ YOK &#183; SADECE KULLANICI ADI</text>
+
+  <line x1="330" y1="72" x2="500" y2="72" stroke="#1f1f1f"/>
+  <circle cx="415" cy="72" r="2.5" fill="#00fff9"/>
+
+  <text class="mono" x="415" y="93" font-size="11.5" fill="#5a6068" text-anchor="middle" textLength="255" lengthAdjust="spacingAndGlyphs">iş herkese açık &#183; kişi dışarıda kalır</text>
+</svg>

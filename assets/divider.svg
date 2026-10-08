@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="24" viewBox="0 0 830 24" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="dL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00fff9" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00fff9" stop-opacity=".45"/>
+    </linearGradient>
+    <linearGradient id="dR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00fff9" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#00fff9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="11.4" width="378" height="1.2" fill="url(#dL)"/>
+  <rect x="452" y="11.4" width="378" height="1.2" fill="url(#dR)"/>
+  <rect x="412" y="9.4" width="6" height="6" fill="#00fff9" transform="rotate(45 415 12.4)"/>
+</svg>
